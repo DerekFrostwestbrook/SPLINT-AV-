@@ -1,7 +1,10 @@
 # MAX-NATIVE
 
-MAX-NATIVE is a commercial edition. Its source code and release build tools are
-not included in this open source repository.
+MAX-NATIVE is the native C++ commercial edition of MAX. The compiled tool and
+its source code are available for purchase; neither its source nor its release
+build tools are included in this open source repository. Prices are negotiable.
 
-For purchase and licensing information, contact the author through the
-[SPLINT-AV GitHub repository](https://github.com/DerekFrostwestbrook/SPLINT-AV-).
+For purchase and licensing inquiries, contact **`frostwest_brook` on Discord**.
+The FREE and PRO editions in this repository are intentionally much simpler
+than MAX. A substantially more capable MAX update is in development and is
+planned for a future compiled release; its features and availability may change.
