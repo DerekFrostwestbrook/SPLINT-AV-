@@ -5,6 +5,7 @@ The repository contains the source code and build SDK for those editions.
 
 ## Editions
 
+* **SPLINT MAX product page:** [derekfrostwestbrook.github.io/SPLINT-AV-](https://derekfrostwestbrook.github.io/SPLINT-AV-/) (after GitHub Pages is enabled and the first deployment completes).
 * **FREE** is licensed under 0BSD. See [free/LICENSE](free/LICENSE).
 * **PRO** is licensed under MIT. Keep its copyright and license notice when
   redistributing copies or substantial portions. See [pro/LICENSE](pro/LICENSE).
